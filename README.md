@@ -27,3 +27,4 @@ npm test
 
 
 ![Alt text](https://github.com/hua1995116/Havetrip/blob/master/imgs/4EAA329A-E678-4547-A6CD-250FD07522E7.png)
+<img src="https://github.com/hua1995116/Havetrip/blob/master/imgs/4EAA329A-E678-4547-A6CD-250FD07522E7.png" />
