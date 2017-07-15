@@ -1,27 +1,30 @@
-# havetrip
 
-> A Vue.js project
+# 美丽乡村专题网站
 
-## Build Setup
+> 基于vue的网站
+
+## 项目建立（详情看package.json）
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行 （访问localhost:8080）
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
+## 项目目录
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<img src="https://github.com/hua1995116/Havetrip/blob/master/imgs/4EAA329A-E678-4547-A6CD-250FD07522E7.png" width="300"/>
+
+build／config目录 
+--webpack打包依赖
+
+static目录 
+--静态资源目录
+
+test目录  
+--测试目录
+
