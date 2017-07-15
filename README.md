@@ -15,5 +15,16 @@ npm run dev
 # 打包
 npm run build
 ```
+## 项目目录
 
 <img src="https://github.com/hua1995116/Havetrip/blob/master/imgs/4EAA329A-E678-4547-A6CD-250FD07522E7.png" width="300"/>
+
+build／config目录 
+--webpack打包依赖
+
+static目录 
+--静态资源目录
+
+test目录  
+--测试目录
+
