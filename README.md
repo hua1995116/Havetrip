@@ -3,6 +3,13 @@
 
 > 基于vue的网站
 
+## 技术栈
+
+- 脚手架：vue-cli
+- 前端： vue ，vue-router ，vuex
+- 打包工具： webpack
+- css依赖： stylus
+
 ## 项目建立（详情看package.json）
 
 ``` bash
@@ -28,3 +35,4 @@ static目录
 test目录  
 --测试目录
 
+<img src="https://github.com/hua1995116/Havetrip/blob/master/imgs/2.png" width="300"/>
