@@ -1,3 +1,4 @@
+![Alt text](https://github.com/hua1995116/Havetrip/edit/master/4EAA329A-E678-4547-A6CD-250FD07522E7.png)
 # havetrip
 
 > A Vue.js project
