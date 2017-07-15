@@ -1,5 +1,5 @@
-![Alt text](https://github.com/hua1995116/Havetrip/edit/master/4EAA329A-E678-4547-A6CD-250FD07522E7.png)
-# havetrip
+
+# 美丽乡村专题网站
 
 > A Vue.js project
 
@@ -25,4 +25,5 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+![Alt text](https://github.com/hua1995116/Havetrip/blob/master/imgs/4EAA329A-E678-4547-A6CD-250FD07522E7.png)
