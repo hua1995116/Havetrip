@@ -8,6 +8,10 @@ import Person from '../pages/page/Person.vue'
 import Tab1 from '../pages/page/Tab1.vue'
 import Tab2 from '../pages/page/Tab2.vue'
 import Tab3 from '../pages/page/Tab3.vue'
+import Youji from '../pages/page/Youji.vue'
+import Country from '../pages/page/Country.vue'
+import Gerenzhongxin from '../pages/page/Gerenzhongxin.vue'
+import Tongzhi from '../pages/page/Tongzhi.vue'
 
 export const Main = {
   path: 'index',
@@ -33,19 +37,41 @@ export const Main = {
 }
 
 export const ShowIndex = {
-  path: '/show',
+  path: 'show',
   name: 'show',
   component: Detail
 }
 
 export const TravelNotes = {
-  path: '/notes',
+  path: 'notes',
   name: 'notes',
   component: Notes
 }
 
 export const Personal = {
-  path: '/person',
+  path: 'person',
   name: 'person',
-  component: Person
+  component: Person,
+  children: [
+    {
+      path: 'youji',
+      name: 'youji',
+      component: Youji
+    },
+    {
+      path: 'country',
+      name: 'country',
+      component: Country
+    },
+    {
+      path: 'gerenziliao',
+      name: 'gerenziliao',
+      component: Gerenzhongxin
+    },
+    {
+      path: 'tongzhi',
+      name: 'tongzhi',
+      component: Tongzhi
+    }
+  ]
 }
